@@ -248,3 +248,9 @@ a {
   color: #430f58;
   text-align: center;
 }
+/* media query for smaller screens */
+@media screen and (max-width: 768px) {
+  .resume {
+    max-width: 90%;
+  }
+
