@@ -12,9 +12,8 @@ body {
   line-height: 1.6em;
 }
 
-a {
+a {text-decoration: none;
   color: #7a4ca2; 
-  text-decoration: none; 
   margin: 2px; 
   padding-left: 2px; 
 }
@@ -73,6 +72,7 @@ a:hover {
   display: flex;
   align-items: center;
   margin-bottom: 10px;
+  
 }
 
 .icon {
