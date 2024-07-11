@@ -1,4 +1,3 @@
-
 * {
   padding: 0;
   box-sizing: border-box;
@@ -14,15 +13,17 @@ body {
 }
 
 a {
-  text-decoration: none;
-  color: #7a4ca2;
+  text-decoration: none !important;
+  color: #6723a2 ;
   margin: 2px;
   padding-left: 2px;
   display: inline-block;
+  
 }
 
 a:hover {
   color: #9153c9;
+  
 }
 
 .resume {
