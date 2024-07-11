@@ -13,11 +13,17 @@ body {
 }
 
 a {
-  color: #8745c2;
-  text-decoration: none;
-  margin: 2px;
-  padding-left: 2px;
+  color: #7a4ca2; 
+  text-decoration: none; 
+  margin: 2px; 
+  padding-left: 2px; 
 }
+
+a:hover {
+
+  color: #9153c9; 
+}
+
 
 .resume {
   max-width: 1000px;
